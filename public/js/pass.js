@@ -4,7 +4,7 @@
     var userInput = null;
     var cookies = document.cookie;
     var cookiesArray = cookies.split(';');
-    var validPasswords = ['massiro','wakame02','わかめtube','わかめうまい','aihiaihi','わかめ02','1108','Harmicelli','春雨']; 
+    var validPasswords = ['massiro','wakame02','わかめtube','わかめうまい','aihiaihi','わかめ02','1108','Harmicelli','春雨','bonraru','ぼんらる']; 
 
     for (var c of cookiesArray) {
       var cArray = c.split('=');
